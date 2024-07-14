@@ -9,7 +9,7 @@ The project being undertaken was a landing site where our customers would come i
 GitHub link:https://github.com/MuigaiMuya/MelburStudios<br/>
 Deployed site: https://muigaimuya.github.io/MelburStudios<br/>
 Deployed site: https://melburstudios.netlify.app<br/>
-Final project blog article: https://www.linkedin.com/posts/muigaimuya_portfolio-project-activity-7216744334082097152<br/>
+Final project blog article: https://medium.com/@stinkerreloaded/portfolio-project-blog-post-9259e96f5005<br/>
 LinkedIn: https://www.linkedin.com/in/muigaimuya/<br/>
 
 <h3>Installation</h3>
